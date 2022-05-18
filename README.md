@@ -8,3 +8,4 @@
 * In this B. Tech. thesis work of mine, we planned an autonomous robot which uses deep learning algorithm to find the difference between weedand plant so we could use the pesticides wisely and remove the weedsproperly with less human effort 
 * we decided to make this robot connected through cloud(internet) to make the robot lite and simple.
 
+![Design Architecture]()
