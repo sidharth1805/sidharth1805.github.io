@@ -32,4 +32,5 @@
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Hive" src ="https://img.shields.io/badge/-Hive-2405f0?logo=Apache%20Hive&logoColor=yellow&logoWidth=20"/>
 </div>
